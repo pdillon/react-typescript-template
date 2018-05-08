@@ -1,2 +1,2 @@
 # react-typescript-template
-Basic setup with react, typescript and webpack
+Basic setup with React, TypeScript, and webpack
